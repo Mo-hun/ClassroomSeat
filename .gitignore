@@ -1,0 +1,5 @@
+bin/
+config/
+node_modules/
+public/
+*.lock
